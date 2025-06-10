@@ -1,4 +1,4 @@
-# Langchain FAISS QA
+# Langchain FAISS Q&A
 
 Este projeto utiliza Langchain, FAISS e OpenAI para responder perguntas sobre documentos de texto, com interface interativa no terminal.
 
