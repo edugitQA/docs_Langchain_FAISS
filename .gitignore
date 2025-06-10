@@ -4,8 +4,8 @@ __pycache__/
 *.pyo
 
 # Virtual Environment
-venv/
-
+.venv/
+.env
 # Jupyter Notebooks
 .ipynb_checkpoints/
 

@@ -1,0 +1,33 @@
+# Fundamentos de Testes de Software
+
+## O que são Testes de Software?
+Testes de software são um conjunto de atividades realizadas com o objetivo de verificar se um sistema ou aplicação está funcionando conforme esperado.
+
+## Tipos de Testes
+- **Teste Unitário**: Valida unidades isoladas de código (funções, métodos).
+- **Teste de Integração**: Garante que diferentes módulos funcionem em conjunto.
+- **Teste de Sistema**: Avalia o sistema como um todo.
+- **Teste de Aceitação**: Confirma que o sistema atende aos requisitos do cliente.
+
+## Testes Automatizados
+A automação de testes permite:
+- Redução de tempo de execução
+- Maior cobertura de testes
+- Execuções repetíveis
+
+Ferramentas comuns: **JUnit**, **Pytest**, **Selenium**, **Cypress**, **Playwright**
+
+## Boas práticas
+- Escrever testes pequenos e isolados
+- Usar dados previsíveis
+- Automatizar testes sempre que possível
+- Integrar testes no pipeline CI/CD
+
+## IA e Testes
+Com a evolução da IA, é possível usar modelos de linguagem para:
+- Gerar cenários de testes automaticamente
+- Priorizar testes com base em impacto
+- Criar testes exploratórios guiados por IA
+
+---
+
