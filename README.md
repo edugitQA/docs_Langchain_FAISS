@@ -16,7 +16,7 @@ Este projeto utiliza Langchain, FAISS e OpenAI para responder perguntas sobre do
 
 1. Clone o repositório:
    ```powershell
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/edugitQA/docs_Langchain_FAISS.git
    cd docs_Langchain_FAISS
    ```
 
@@ -29,7 +29,6 @@ Este projeto utiliza Langchain, FAISS e OpenAI para responder perguntas sobre do
 3. Instale as dependências:
    ```powershell
    pip install -r requirements.txt
-   pip install -U langchain-community langchain-openai
    ```
 
 4. Configure sua chave OpenAI:
@@ -63,6 +62,8 @@ Você poderá digitar perguntas sobre o conteúdo do documento. Para encerrar, d
 - O projeto utiliza as versões mais recentes das bibliotecas Langchain e OpenAI.
 - Caso encontre avisos de depreciação, mantenha as dependências atualizadas.
 - Não compartilhe sua chave OpenAI publicamente.
+- As bibliotecas `pypdf` e `unstructured` estão presentes para possíveis expansões de leitura de PDF e outros formatos, mas não são obrigatórias para o funcionamento básico.
 
 ## Licença
 Este projeto é open-source e está sob a licença MIT.
+
